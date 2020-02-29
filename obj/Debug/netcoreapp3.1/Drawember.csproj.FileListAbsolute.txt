@@ -1,0 +1,17 @@
+C:\Users\Anchovy\Projects\VisualStudio\Drawember\bin\Debug\netcoreapp3.1\Drawember.exe
+C:\Users\Anchovy\Projects\VisualStudio\Drawember\bin\Debug\netcoreapp3.1\Drawember.deps.json
+C:\Users\Anchovy\Projects\VisualStudio\Drawember\bin\Debug\netcoreapp3.1\Drawember.runtimeconfig.json
+C:\Users\Anchovy\Projects\VisualStudio\Drawember\bin\Debug\netcoreapp3.1\Drawember.runtimeconfig.dev.json
+C:\Users\Anchovy\Projects\VisualStudio\Drawember\bin\Debug\netcoreapp3.1\Drawember.dll
+C:\Users\Anchovy\Projects\VisualStudio\Drawember\bin\Debug\netcoreapp3.1\Drawember.pdb
+C:\Users\Anchovy\Projects\VisualStudio\Drawember\obj\Debug\netcoreapp3.1\Drawember.csprojAssemblyReference.cache
+C:\Users\Anchovy\Projects\VisualStudio\Drawember\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Anchovy\Projects\VisualStudio\Drawember\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Anchovy\Projects\VisualStudio\Drawember\obj\Debug\netcoreapp3.1\Drawember_MarkupCompile.cache
+C:\Users\Anchovy\Projects\VisualStudio\Drawember\obj\Debug\netcoreapp3.1\Drawember_MarkupCompile.lref
+C:\Users\Anchovy\Projects\VisualStudio\Drawember\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Anchovy\Projects\VisualStudio\Drawember\obj\Debug\netcoreapp3.1\Drawember.g.resources
+C:\Users\Anchovy\Projects\VisualStudio\Drawember\obj\Debug\netcoreapp3.1\Drawember.AssemblyInfoInputs.cache
+C:\Users\Anchovy\Projects\VisualStudio\Drawember\obj\Debug\netcoreapp3.1\Drawember.AssemblyInfo.cs
+C:\Users\Anchovy\Projects\VisualStudio\Drawember\obj\Debug\netcoreapp3.1\Drawember.dll
+C:\Users\Anchovy\Projects\VisualStudio\Drawember\obj\Debug\netcoreapp3.1\Drawember.pdb

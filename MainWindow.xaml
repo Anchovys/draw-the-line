@@ -1,0 +1,32 @@
+﻿<Window x:Class="Drawember.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Drawember"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" ResizeMode="NoResize">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="26*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="570*"/>
+            <ColumnDefinition Width="230*"/>
+        </Grid.ColumnDefinitions>
+
+        <Canvas Grid.Column="0" Name="paintSurface" MouseDown="Canvas_MouseDown_1" MouseUp="Canvas_MouseUp_1" MouseMove="Canvas_MouseMove_1" Background="#FFFFF5C4" Grid.RowSpan="2"/>
+        <Canvas Grid.Column="0" Name="rememberSurface" Grid.RowSpan="2" />
+        <Canvas Grid.Column="0" Name="gridSurface" Grid.RowSpan="2" />
+
+        <Canvas Grid.Column="1" Grid.Row="0"  Name="menus" Background="#FF7437AE">
+            <Label Content="Drawember" Height="68" Width="230" FontSize="40" FontFamily="Segoe UI Light" Foreground="#FFFBFBFB"/>
+        </Canvas>
+        <Canvas Grid.Column="1" Grid.Row="1" Name="logoa" Background="BlueViolet">
+            <Label x:Name="score_l" Content="Score: 1" Canvas.Left="10" Canvas.Top="10" Height="53" Width="210" FontSize="30" FontFamily="Segoe UI Light" Foreground="#FFFBFBFB"/>
+            <Label x:Name="last_l" Content="Middle: 10 %" Canvas.Left="10" Canvas.Top="63" Height="53" Width="210" FontSize="30" FontFamily="Segoe UI Light" Foreground="#FFFBFBFB"/>
+        </Canvas>
+
+    </Grid>
+</Window>
